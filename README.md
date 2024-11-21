@@ -25,14 +25,12 @@ Let's connect and create something amazing together! 🌟
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=html5&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=csharp&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white)  
 
 #### **Currently Exploring**  
 ![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine-313131.svg?style=flat&logo=unrealengine&logoColor=white)  
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white)  
 
 ---
 
