@@ -13,7 +13,7 @@ Hello there! I'm Vladislav, a 22-year-old **student at the Technical University 
 🎮 When I'm not coding, you'll find me:  
 - Immersed in **gaming** 🎮  
 - **Jamming** to my favorite tunes 🎶  
-- Staying active with **sports** and exploring the thrill of **motorsports** 🏎️  
+- Staying active with **weightliting** and exploring the thrill of **motorsports** 🏎️  
 
 Let's connect and create something amazing together! 🌟  
 
@@ -43,14 +43,6 @@ I currently work at **SAP Ariba** as a **Procurement Solutions Specialist**, whe
 
 ---
 
-### 🌟 **Highlights**
-
-- 🏆 **Creative Problem-Solver** – Bringing fresh ideas to every challenge  
-- 🤝 **Reliable Team Player** – Thriving in collaborative environments  
-- 🌐 **Lifelong Learner** – Always expanding my skill set and embracing new opportunities  
-
----
-
 ### 📫 **Let’s Connect!**  
 
 - 🌍 [Personal Website](https://vladislavej.github.io/portfolio/)  
@@ -58,9 +50,5 @@ I currently work at **SAP Ariba** as a **Procurement Solutions Specialist**, whe
 - 📧 [vlad.mocilenko01@gmail.com](mailto:vlad.mocilenko01@gmail.com)  
 
 ---
-
-### 🎮 **Fun Fact**  
-
-I believe the best way to solve a coding problem is with a cup of coffee ☕ and some background music 🎶!  
 
 Let’s build something awesome together! 🚀  
