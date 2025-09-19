@@ -1,22 +1,10 @@
 # 👋 Hi, I'm **Vladislav Močilenko**!  
 
-🚀 **Passionate Tech Enthusiast | Procurement Solutions Specialist | Lifelong Learner**  
-
 ---
 
 ### 👨‍💻 **About Me**
 
-Hello there! I'm Vladislav, a 22-year-old **student at the Technical University of Košice** with a love for technology, innovation, and solving complex challenges.  
-
-💻 With a strong foundation in programming and a knack for learning new technologies, I thrive on creating impactful solutions.  
-
-🎮 When I'm not coding, you'll find me:  
-- Immersed in **gaming** 🎮  
-- **Jamming** to my favorite tunes 🎶  
-- Staying active with **weightliting** and exploring the thrill of **motorsports** 🏎️  
-
-Let's connect and create something amazing together! 🌟  
-
+Hello there! I'm Vladislav, a 23-year-old **student at the Technical University of Košice** and a **Procurement Solutions Specialist** at **SAP**.
 ---
 
 ### 🛠️ **My Toolbox**
@@ -34,21 +22,8 @@ Let's connect and create something amazing together! 🌟
 
 ---
 
-### 🎯 **What I Do**
-
-I currently work at **SAP Ariba** as a **Procurement Solutions Specialist**, where I:  
-🔧 Help solve **complex technical challenges**  
-💡 Collaborate on innovative solutions  
-🌱 Learn and grow with a team of passionate professionals  
-
----
-
 ### 📫 **Let’s Connect!**  
 
-- 🌍 [Personal Website](https://vladislavej.github.io/portfolio/)  
+- 🌍 [Website](https://vladislavej.github.io/portfolio/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vladislav-mocilenko/)  
-- 📧 [vlad.mocilenko01@gmail.com](mailto:vlad.mocilenko01@gmail.com)  
-
----
-
-Let’s build something awesome together! 🚀  
+- 📧 [vlad.mocilenko01@gmail.com](mailto:vlad.mocilenko01@gmail.com)
