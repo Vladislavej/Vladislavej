@@ -1,7 +1,5 @@
 # 👋 Hi, I'm **Vladislav Močilenko**!  
 
----
-
 I'm Vladislav, a 23-year-old **student at the Technical University of Košice** and a **Procurement Solutions Specialist** at **SAP**.
 
 ---
